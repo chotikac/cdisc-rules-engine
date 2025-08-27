@@ -1,0 +1,14 @@
+Usage: core.py [OPTIONS] COMMAND [ARGS]...
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list-ct                Command to list the ct packages available in the...
+  list-dataset-metadata  Command that lists metadata of given datasets.
+  list-rule-sets         Lists all standards and versions for which rules...
+  list-rules
+  test-validate          **Release Test** validate command for executable.
+  update-cache
+  validate               Validate data using CDISC Rules Engine
+  version
